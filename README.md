@@ -46,11 +46,6 @@ $ php artisan make:awesome --force
 
 ---
 
-## 📊 Code-Karma
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quitscope&theme=radical&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quitscope&layout=compact&theme=radical)
-
 ---
 
 ## 🔗 Let's connect

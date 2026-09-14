@@ -41,5 +41,4 @@ $ php artisan make:awesome --force
 
 ## Sonst so
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/234797737156149259)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/quitscope)
+![Discord](https://img.shields.io/badge/Discord-quitscope-5865F2?style=for-the-badge&logo=discord&logoColor=white)
